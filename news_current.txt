@@ -1,13 +1,16 @@
 [b]News!![/b]
-[b]Version 0.0.0[/b][align=right]Help Im to the right[/align]
-[list]
-[*]Nothing here yet, but this is a big test onto see how viable this will be for the launcher.
-[/list]
+
+[b]Version 0.0.0[/b]
+[ul]
+Nothing here yet, but this is a big test onto see how viable this will be for the launcher.
+[/ul]
+
 [b]Version 0.0.0-b[/b]
-[list]
-[*]Nothing here yet, but this is a big test onto see how viable this will be for the launcher.
-[/list]
+[ul]
+Nothing here yet, but this is a big test onto see how viable this will be for the launcher.
+[/ul]
+
 [b]Version 0.0.0-a[/b]
-[list]
-[*]Nothing here yet, but this is a big test onto see how viable this will be for the launcher.
-[/list]
+[ul]
+Nothing here yet, but this is a big test onto see how viable this will be for the launcher.
+[/ul]
